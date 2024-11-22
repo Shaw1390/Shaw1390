@@ -10,8 +10,8 @@ Previously, I was building data piplines and using machine learning to forecast 
 ### Featured blogs/articles
 
 - 📖 [Global Defense Budgets: Insights from Historical Trends and Economic Factors](https://medium.com/@shawaiz.akhter0/global-defense-budgets-insights-from-historical-trends-and-economic-factors-da7a177825f0)
-- 🚀 [Join Postman at Google Summer of Code 2023](https://blog.postman.com/join-postman-at-google-summer-of-code-2023/)
-- 💻 [If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram](https://www.opensourceforu.com/2020/07/if-you-are-a-techie-your-home-page-should-be-github-not-instagram/)
+- 🚀 [Saronic introduces Corsair for Pentagon DIU's Replicator programme](https://www.janes.com/osint-insights/defence-news/sea/saronic-introduces-corsair-for-pentagon-dius-replicator-programme)
+- 💻 [SJCE Aero-modelling Club takes part in SAE Aero Design contest in USA](https://starofmysore.com/sjce-aero-modelling-club-takes-part-in-sae-aero-design-contest-in-usa/
 - 🌟 [Milepost: From a GitHub User to a GitHub Star](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star)
 - 🧠 [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
 
