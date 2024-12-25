@@ -20,8 +20,8 @@ Previously, I was building data piplines and using machine learning to forecast 
 Apart from the pinned repositories, I have built:
 - 🛡️ [Layoffs Exploratory Data Analysis](https://github.com/Shaw1390/Layoffs-Project) 
 - 🔍 [US-Military-Budget-Forecast](https://github.com/Shaw1390/US-Military-Budget-Forecast).
-- 💧 [Water Monitoring System](https://github.com/vinitshahdeo/Water-Monitoring-System) *(part of [Rails Girls Summer Of Code](https://twitter.com/Vinit_Shahdeo/status/1234936360613695489))*
-- 🦠 [COVID-19 Tracker](https://github.com/vinitshahdeo/COVID19) *(featured in [newspapers](https://thenewskhazana.com/story/meet-vinit-shahdeo-a-resident-of-jharkhand-has-been-recognized-as-a-github-star-22451/), [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
+- 💧 [New York City's Yellow Taxi Data Engineering Project](https://github.com/Shaw1390/Yellow-Taxi) 
+- 🦠 [Uber Cash vs Card Hypothesis Project](https://github.com/Shaw1390/Yellow-taxi-pipeline) [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
 
 ### Tech Stack
 
