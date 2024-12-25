@@ -11,17 +11,17 @@ Previously, I was building data piplines and using machine learning to forecast 
 
 - 📖 [Global Defense Budgets: Insights from Historical Trends and Economic Factors](https://medium.com/@shawaiz.akhter0/global-defense-budgets-insights-from-historical-trends-and-economic-factors-da7a177825f0)
 - 🚀 [Saronic introduces Corsair for Pentagon DIU's Replicator programme](https://www.janes.com/osint-insights/defence-news/sea/saronic-introduces-corsair-for-pentagon-dius-replicator-programme)
-- 💻 [SJCE Aero-modelling Club takes part in SAE Aero Design contest in USA](https://starofmysore.com/sjce-aero-modelling-club-takes-part-in-sae-aero-design-contest-in-usa/)
+- 🛩️ [SJCE Aero-modelling Club takes part in SAE Aero Design contest in USA](https://starofmysore.com/sjce-aero-modelling-club-takes-part-in-sae-aero-design-contest-in-usa/)
 - 🌟 [Milepost: From a GitHub User to a GitHub Star](https://vinitshahdeo.dev/milepost-from-a-github-user-to-a-github-star)
-- 🧠 [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
+- 🚕 [Cash vs. Card: How Payment Methods Impact Uber’s Revenue](https://medium.com/@shawaiz.akhter0/cash-vs-card-how-payment-methods-impact-ubers-revenue-bf4b5c4da0cb)
 
 ### Projects
 
 Apart from the pinned repositories, I have built:
 - 🛡️ [Layoffs Exploratory Data Analysis](https://github.com/Shaw1390/Layoffs-Project) 
 - 🔍 [US-Military-Budget-Forecast](https://github.com/Shaw1390/US-Military-Budget-Forecast).
-- 💧 [New York City's Yellow Taxi Data Engineering Project](https://github.com/Shaw1390/Yellow-Taxi) 
-- 🦠 [Uber Cash vs Card Hypothesis Project](https://github.com/Shaw1390/Yellow-taxi-pipeline) [blogs](https://www.ranchiblog.in/vinit-shahdeo-github-star-from-jharkhand-india/vinit-shahdeo-github-star-from-india/))*
+- 🚖 [New York City's Yellow Taxi Data Engineering Project](https://github.com/Shaw1390/Yellow-Taxi) 
+- 🚕 [Uber Cash vs Card Hypothesis Project](https://github.com/Shaw1390/Yellow-taxi-pipeline) [blogs](https://medium.com/@shawaiz.akhter0/cash-vs-card-how-payment-methods-impact-ubers-revenue-bf4b5c4da0cb)*
 
 ### Tech Stack
 
