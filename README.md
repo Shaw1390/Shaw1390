@@ -43,9 +43,9 @@ I mostly work with **Python**, specifically libraries **Pandas**, **Numpy** and 
 
 ### Let's connect!
 
-Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/Vinit_Shahdeo) and [LinkedIn](https://www.linkedin.com/in/shawaiz-akhter-5a1b74192/?originalSubdomain=in).
+Explore my thoughts at [vinitshahdeo.dev](https://vinitshahdeo.dev/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/Shaw1390) and [LinkedIn](https://www.linkedin.com/in/shawaiz-akhter-5a1b74192/?originalSubdomain=in).
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Shawaiz?style=social)](https://twitter.com/Vinit_Shahdeo)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=shawaiz&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shawaiz-akhter-5a1b74192/?originalSubdomain=in)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Shawaiz?style=social)](https://twitter.com/Shaw1390)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=shawaiz&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/shawaiz-akhter-5a1b74192/?originalSubdomain=in)
 **Let's code, connect, and create awesome things together!**
 
 <!--
